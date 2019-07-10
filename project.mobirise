@@ -188,6 +188,19 @@
                 "customStyle1": "display-7",
                 "caption": "Roy T. Fielding",
                 "active": false
+              },
+              {
+                "tags": "Hacker",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/1024px-martin-fowler-2008-1024x781.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1024px-martin-fowler-2008-1024x781-800x610.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Martin Fowler",
+                "active": false
               }
             ]
           }

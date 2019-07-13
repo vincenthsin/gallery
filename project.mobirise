@@ -201,6 +201,32 @@
                 "customStyle1": "display-7",
                 "caption": "Martin Fowler",
                 "active": false
+              },
+              {
+                "tags": "Company",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/1920px-ibm-logo.svg-1920x768.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1920px-ibm-logo.svg-1920x768-800x320.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Hacker",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/linuxcon-europe-linus-torvalds-3-2000x2999.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/linuxcon-europe-linus-torvalds-3-2000x2999-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Linus Torvalds",
+                "active": false
               }
             ]
           }

@@ -37,7 +37,9 @@
     "siteFonts": [],
     "uniqCompNum": 6,
     "versionPublish": "4.10.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/wechat-image-20190810234046-128x128-1.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {

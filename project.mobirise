@@ -140,7 +140,7 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Hacker",
+                "tags": "Hall of Fame",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -153,7 +153,7 @@
                 "active": false
               },
               {
-                "tags": "OSS",
+                "tags": "Corporation",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -166,7 +166,7 @@
                 "active": false
               },
               {
-                "tags": "Company",
+                "tags": "Corporation",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -179,7 +179,7 @@
                 "active": false
               },
               {
-                "tags": "Hacker",
+                "tags": "Hall of Fame",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -192,7 +192,7 @@
                 "active": false
               },
               {
-                "tags": "Hacker",
+                "tags": "Hall of Fame",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -205,7 +205,7 @@
                 "active": false
               },
               {
-                "tags": "Company",
+                "tags": "Corporation",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -218,7 +218,7 @@
                 "active": false
               },
               {
-                "tags": "Hacker",
+                "tags": "Hall of Fame",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -231,7 +231,7 @@
                 "active": false
               },
               {
-                "tags": "Hacker",
+                "tags": "Hall of Fame",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -267,10 +267,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Hacker",
+                "tags": "Hall of Fame",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -280,7 +280,33 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Guido van Rossum",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "OSS",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/docker-container-engine-logo.svg",
+                "thumb": "@PROJECT_PATH@/assets/images/docker-container-engine-logo.svg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "OSS",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tux.svg",
+                "thumb": "@PROJECT_PATH@/assets/images/tux.svg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
               }
             ]
           }

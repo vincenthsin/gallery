@@ -140,7 +140,7 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Hall of Fame",
+                "tags": "Giant",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -179,7 +179,7 @@
                 "active": false
               },
               {
-                "tags": "Hall of Fame",
+                "tags": "Giant",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -192,7 +192,7 @@
                 "active": false
               },
               {
-                "tags": "Hall of Fame",
+                "tags": "Giant",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -215,10 +215,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Hall of Fame",
+                "tags": "Giant",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -231,7 +231,7 @@
                 "active": false
               },
               {
-                "tags": "Hall of Fame",
+                "tags": "Giant",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -267,10 +267,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": true
+                "active": false
               },
               {
-                "tags": "Hall of Fame",
+                "tags": "Giant",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -302,6 +302,32 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/tux.svg",
                 "thumb": "@PROJECT_PATH@/assets/images/tux.svg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "OSS",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/git-logo.svg",
+                "thumb": "@PROJECT_PATH@/assets/images/git-logo.svg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Corporation",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/addison-wesley-logo-2015-139x106.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/addison-wesley-logo-2015-139x106-139x106.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",

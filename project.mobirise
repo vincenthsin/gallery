@@ -205,7 +205,7 @@
                 "active": false
               },
               {
-                "tags": "Corporation",
+                "tags": "Giant",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -215,7 +215,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Giant",
@@ -333,6 +333,19 @@
                 "customStyle1": "display-7",
                 "caption": "",
                 "active": false
+              },
+              {
+                "tags": "Giant",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/blaise-pascal-versailles-2000x2382.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/blaise-pascal-versailles-2000x2382-800x953.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Blaise Pascal&nbsp;<br>",
+                "active": true
               }
             ]
           }

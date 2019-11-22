@@ -165,7 +165,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Richard Stallman",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Corporation",
@@ -191,7 +191,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Giant",
@@ -334,6 +334,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Giant",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/grady-booch-chm-2011-2-cropped-483x684.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/grady-booch-chm-2011-2-cropped-483x684-483x684.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Grady Booch",
                 "active": false
               }
             ]

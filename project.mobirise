@@ -45,13 +45,14 @@
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/wechat-image-20191119162714-128x128.png",
-    "noImageResize": false,
+    "noImageResize": null,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "imageResize": true
   },
   "pages": {
     "index.html": {

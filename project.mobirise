@@ -349,6 +349,45 @@
                 "customStyle1": "display-7",
                 "caption": "Grady Booch",
                 "active": false
+              },
+              {
+                "tags": "Giant",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/sir-tim-berners-lee-cropped-570x713.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sir-tim-berners-lee-cropped-570x713-570x713.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Timothy John Berners-Lee",
+                "active": false
+              },
+              {
+                "tags": "Giant",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/dr-vint-cerf-formemrs-960x1440.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dr-vint-cerf-formemrs-960x1440-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Vinton Gray Cerf",
+                "active": false
+              },
+              {
+                "tags": "Giant",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/bob-kahn-2000x2318.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bob-kahn-2000x2318-800x927.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Robert Elliott Kahn",
+                "active": false
               }
             ]
           }

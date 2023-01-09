@@ -182,7 +182,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": true
+                "active": false
               },
               {
                 "tags": "OSS",
@@ -393,7 +393,7 @@
                 "active": false
               },
               {
-                "tags": "Corporation",
+                "tags": "OSS",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -403,7 +403,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "",
-                "active": false
+                "active": true
               }
             ]
           }

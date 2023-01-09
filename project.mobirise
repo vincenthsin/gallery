@@ -54,7 +54,7 @@
     "gdpr": false,
     "imageResize": true,
     "mbrsiteDomain": "pqigw6n9k1",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
